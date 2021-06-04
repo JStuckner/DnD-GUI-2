@@ -1,0 +1,7 @@
+tkinter
+pillow
+numpy
+matplotlib
+scipy
+skimage
+imageio

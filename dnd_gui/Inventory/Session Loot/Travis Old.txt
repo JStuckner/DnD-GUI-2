@@ -1,0 +1,45 @@
+25 gp
+1 warhammer @2
+1 shield, @6
+5 javelins @2 #(10 total)
+1 plate mail, @65
+1 Holy symbol amulet, @1
+1 backpack, @5
+1 blanket, @3 
+10 candles,
+1 tinderbox,
+1 alms box, 
+2 blocks ofincense, 
+1 censer, 
+1 vestments, 
+2 days of rations, @2 (4 total)
+1 waterskin, @5
+
+
+
+
+Old
+19 sp
+1 ep
+3500 gp
+1 Warpick @2 #Ogniuiks Silvered Pickaxe
+2 Handaxe
+1 Halberd
+1 Waterskin
+/1 Explorer's Pack
+9 Torch
+1 Shield #The Sentinal Shield
+1 Grappling Hook
+1 Common clothes #Bearskin
+1 Healer's kit
+1 Drum
+1 tent
+3 Heath Potions
+3 Greater Heath Potions
+1 Werewolf's paw @2
+1 Ring of Jumping
+Black Stone @1
+
+#------
+#Str 19 (carry capacity of 285, 95 w/o encumberance)
+#Lvl 6 Aspect of the bear (pg 50 PHB), x2 carry capacity (570, 190 w/o encumberance)

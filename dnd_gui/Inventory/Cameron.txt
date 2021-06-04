@@ -1,0 +1,28 @@
+# 25000 gp in house
+8 arrows #silver
+2 arrows # +2
+cloak of displacement @1
+studded leather #+1
+Bracers of Archery @1
+1 Torch
+2 ball bearings
+1 bottle @0.1
+Boots of Striding and Springing @1
+Spiderbot @1
+Periapt of Wound Closure
+10 blowgun needles #+3
+blowgun
+ring of jumping
+2 caltrops
+Figurine of Wondrous Power, Bronze Griffon @1
+deck of illusions @0.1
+#pocketsand
+wand of wonder
+potion of stone giant
+potion of hill giant strength
+2 potion of healing
+2 dagger
+shortbow
+Thieves' tools
+scroll of protection from energy
+

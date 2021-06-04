@@ -1,0 +1,26 @@
+290 gp
+250 pp
+2 Torch
+Shortsword
+2 Dagger
+Shortbow
+20 Arrows
+10 arrows #Silver
+Blowgun
+10 Blowgun darts #+3
+2 potions #random
+burglar's pack
+gloves of thievery @1
+hat of disguise @1
+cloak of elvenkind @1
+wristband of invisibility @0.2
+bracers of archery @1
+studded leather armor
+common clothes #dark
+immovable rod
+Medallion of thoughts
+poisoner's kit
+Signet ring of the emperor @0
+Forged orders from the emperor @1
+thieves' tools
+bag of holding

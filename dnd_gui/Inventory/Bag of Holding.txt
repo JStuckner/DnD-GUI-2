@@ -1,0 +1,27 @@
+#Seth
+2815 pp
+10 dart
+backpack
+crowbar 
+hammer 
+10 potions 
+10 torch
+tinderbox 
+waterskin
+hempen rope (50 feet) @10
+immovable rod
+Horn of Valhalla, Brass
+# A scroll case stuffed full of notes from your studies or prayers @1
+a winter blanket @3
+herbalism kit
+Chime of opening
+
+#Cameron
+explorer's pack #Cameron
+
+#All
+7 Robes
+Silver ewer (magic) @0.5
+4 goblets (magic) @0.1
+Random notes on Nethril @1
+
